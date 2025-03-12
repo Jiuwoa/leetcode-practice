@@ -1,4 +1,4 @@
-# [LeetCode](https://leetcode.com) 
+# [LeetCode](https://leetcode.com) practice
 
 
 ## Solved Problems
@@ -8,3 +8,4 @@
 | **Accepted** | 1 | 0 | 0 | 1 |
 | **Total** | 575 | 1198 | 530 | 2303 |
 | **Coverage** | 0.21 % |0 % | 0 % | 0 % |
+
