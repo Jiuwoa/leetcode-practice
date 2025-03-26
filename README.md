@@ -9,7 +9,7 @@
 | **Total** | 575 | 1198 | 530 | 2303 |
 | **Coverage** | 0.21 % |0 % | 0 % | 0 % |
 
-Python.
+#Python
 1.Two sum
 class Solution:
 ```
